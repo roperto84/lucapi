@@ -1,0 +1,9 @@
+/target
+/dist
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs y artefactos locales
+*.log

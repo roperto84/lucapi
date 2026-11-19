@@ -2,6 +2,10 @@
 name = "lucapi"
 version = "1.10.0"
 edition = "2024"
+description = "Cliente de APIs de escritorio, local-first, escrito en Rust con egui"
+repository = "https://github.com/roperto84/lucapi"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
 arboard = "3.7"

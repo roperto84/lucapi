@@ -14,6 +14,7 @@
   <img alt="egui" src="https://img.shields.io/badge/UI-egui%20%2F%20eframe-1f6feb">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-11%2B-111">
   <img alt="Tests" src="https://img.shields.io/badge/tests-83%20passing-2ea043">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2ea043">
   <img alt="Version" src="https://img.shields.io/badge/version-1.10.0-1f6feb">
 </p>
 
@@ -275,6 +276,11 @@ Apidog, centrada en el escritorio y en no depender de un servicio en la nube.
 
 Fuera de alcance por ahora: sincronización en equipo y colaboración en tiempo
 real, editor de esquemas OpenAPI dentro de la app y clientes gRPC/WebSocket.
+
+## Licencia
+
+[MIT](LICENSE) © 2026 roperto84. Puedes usar, modificar, distribuir y vender el
+software, siempre que conserves el aviso de copyright y la licencia.
 
 ---
 
